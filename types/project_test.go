@@ -20,7 +20,7 @@ import (
 	_ "crypto/sha256"
 	"testing"
 
-	"github.com/distribution/distribution/v3/reference"
+	"github.com/distribution/distribution/reference"
 	"github.com/opencontainers/go-digest"
 	"gotest.tools/v3/assert"
 )
